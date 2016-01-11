@@ -1,0 +1,15 @@
+#txtAlt,
+#txtAtac,
+#txtDefense,
+#txtHP,
+#txtId,
+#txtNom,
+#txtPes,
+#txtSp_Atc,
+#txtSp_Def,
+#txtTipus,
+#txtVel {
+    -fx-text-fill: green;
+    -fx-font-size: 14px;
+    -fx-text-alignment: center;
+}
